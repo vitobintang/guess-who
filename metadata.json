@@ -1,0 +1,7 @@
+{
+  "name": "Guess Who Board",
+  "description": "A digital 'Guess Who' board tool. Upload your own photos or generate them with AI, select your secret character, and track the game state interactively.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
